@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_systrigger.aufrominst2</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>aufrominst2</name>
+        <script><![CDATA[var aufrominst2 = Class.create();
+aufrominst2.prototype = {
+    initialize: function() {
+    },
+
+    type: 'aufrominst2'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-22 21:20:57</sys_created_on>
+        <sys_id>40dfdeea60321300964f1bba9c5eda6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aufrominst2</sys_name>
+        <sys_package display_value="systrigger" source="x_systrigger">01d7c71210721300964f89a83a41cd2b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="systrigger">01d7c71210721300964f89a83a41cd2b</sys_scope>
+        <sys_update_name>sys_script_include_40dfdeea60321300964f1bba9c5eda6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-22 21:20:57</sys_updated_on>
+    </sys_script_include>
+</record_update>
