@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-22 05:37:06</sys_created_on>
-        <sys_id>830e8d6adc721300964f7d5bdb078b9a</sys_id>
+        <sys_id>2050eaee80761300964f3f26e1e5734d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Class</sys_name>
         <sys_package display_value="systrigger" source="x_systrigger">01d7c71210721300964f89a83a41cd2b</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="systrigger">01d7c71210721300964f89a83a41cd2b</sys_scope>
         <sys_update_name>sys_dictionary_x_systrigger_table_sys_class_name</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-06-22 15:23:28</sys_updated_on>
+        <sys_updated_on>2018-06-22 21:22:57</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
